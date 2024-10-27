@@ -22,6 +22,12 @@ function App() {
           onChange={handleSearchChange}
           className="search-bar"
         />
+
+        <div className='menu-icon'>
+          <div></div>
+          <div></div>
+          <div></div>
+        </div>
       </header>
       <EventList searchQuery={searchQuery} onEventSelect={setSelectedEvent} />
 
