@@ -1,23 +1,33 @@
-import logo from './logo.svg';
+import React, { useState } from 'react';
+import EventList from './components/EventList';
+import Modal from './components/Modal';
 import './App.css';
 
 function App() {
+  const [selectedEvent, setSelectedEvent] = useState(null);
+  const [searchQuery, setSearchQuery] = useState('');
+
+  const handleSearchChange = (e) => {
+    setSearchQuery(e.target.value);
+  };
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+      <header className="navbar">
+        <h1>EventSpot Lite</h1>
+        <input
+          type="text"
+          placeholder="Search events by name or location..."
+          value={searchQuery}
+          onChange={handleSearchChange}
+          className="search-bar"
+        />
       </header>
+      <EventList searchQuery={searchQuery} onEventSelect={setSelectedEvent} />
+
+      {selectedEvent && (
+        <Modal event={selectedEvent} onClose={() => setSelectedEvent(null)} />
+      )}
     </div>
   );
 }

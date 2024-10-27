@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "name": "Local Art Fair",
+      "date": "2024-11-05",
+      "location": "Downtown",
+      "description": "A gathering of local artists displaying unique pieces.",
+      "image": "https://plus.unsplash.com/premium_photo-1714060724900-4fceef462079?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bG9jYWwlMjBhcnQlMjBmYWlyfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 2,
+      "name": "Food Truck Festival",
+      "date": "2024-11-12",
+      "location": "City Park",
+      "description": "Sample cuisines from a variety of food trucks.",
+      "image": "https://images.unsplash.com/photo-1513640127641-49ba81f8305c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 3,
+      "name": "Live Jazz Night",
+      "date": "2024-11-18",
+      "location": "The Blue Note",
+      "description": "Enjoy an evening of live jazz music by talented local bands.",
+      "image": "https://images.unsplash.com/photo-1531402581960-f0a304148a1c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bGl2ZSUyMGphenolMjBuaWdodHxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": 4,
+      "name": "Outdoor Movie Screening",
+      "date": "2024-11-22",
+      "location": "Central Park",
+      "description": "A free movie screening under the stars. Bring a blanket!",
+      "image": "https://images.unsplash.com/photo-1527979809431-ea3d5c0c01c9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8b3V0ZG9vciUyMG1vdmllJTIwc2NyZWVuaW5nfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 5,
+      "name": "Farmers Market",
+      "date": "2024-11-25",
+      "location": "Greenfield Square",
+      "description": "Fresh produce, baked goods, and handmade crafts from local vendors.",
+      "image": "https://plus.unsplash.com/premium_photo-1686285540093-0613f74311dd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZmFybWVycyUyMG1hcmtldHxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": 6,
+      "name": "Photography Workshop",
+      "date": "2024-11-28",
+      "location": "The Art Center",
+      "description": "Learn the basics of photography and get hands-on experience.",
+      "image": "https://images.unsplash.com/photo-1486892539609-d5322f938c50?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHBob3RvZ3JhcGh5JTIwd29ya3Nob3B8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": 7,
+      "name": "Yoga in the Park",
+      "date": "2024-11-30",
+      "location": "Westfield Park",
+      "description": "A relaxing outdoor yoga session for all skill levels.",
+      "image": "https://plus.unsplash.com/premium_photo-1713908274212-f96df661898f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8WW9nYSUyMGluJTIwdGhlJTIwUGFya3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": 8,
+      "name": "Wine Tasting Evening",
+      "date": "2024-12-02",
+      "location": "Vineyard Valley",
+      "description": "Sample a variety of wines from local wineries.",
+      "image": "https://images.unsplash.com/photo-1549575612-3eef24008a05?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2luZSUyMHRhc3RpbmclMjBldmVuaW5nfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 9,
+      "name": "Christmas Craft Fair",
+      "date": "2024-12-10",
+      "location": "Community Hall",
+      "description": "Find handmade holiday gifts and decor by local artisans.",
+      "image": "https://images.unsplash.com/photo-1480930700499-dc44aa7cb2cf?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Q2hyaXN0bWFzJTIwQ3JhZnQlMjBGYWlyfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 10,
+      "name": "Comedy Night",
+      "date": "2024-12-15",
+      "location": "Laugh Lounge",
+      "description": "Enjoy an evening of laughs with stand-up performances.",
+      "image": "https://images.unsplash.com/photo-1506882482183-3fc779ba50f4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y29tZWR5JTIwbmlnaHRzfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 11,
+      "name": "Winter Wonderland",
+      "date": "2024-12-20",
+      "location": "City Plaza",
+      "description": "A winter festival with ice skating, food stalls, and holiday lights.",
+      "image": "https://images.unsplash.com/photo-1519552928909-67ca7aef9265?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8d2ludGVyJTIwd29uZGVybGFuZHxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": 12,
+      "name": "New Year's Eve Party",
+      "date": "2024-12-31",
+      "location": "Downtown Club",
+      "description": "Ring in the new year with a night of music and dancing.",
+      "image": "https://plus.unsplash.com/premium_photo-1698154383021-c2370c8e1c4f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8bmV3JTIweWVhciUyMHBhcnR5fGVufDB8fDB8fHww"
+    },
+    {
+      "id": 13,
+      "name": "Valentine's Dance",
+      "date": "2025-02-14",
+      "location": "The Grand Ballroom",
+      "description": "Celebrate Valentine's Day with live music and dancing.",
+      "image": "https://images.unsplash.com/photo-1610734606118-5c76c8ba1dab?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8dmFsZW50aW5lcyUyMGRhbmNlfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 14,
+      "name": "Science Expo",
+      "date": "2025-02-20",
+      "location": "City Convention Center",
+      "description": "Explore innovative scientific projects and experiments.",
+      "image": "https://images.unsplash.com/photo-1614508568879-876f2cde2237?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8U2NpZW5jZSUyMEV4cG98ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": 15,
+      "name": "Classic Car Show",
+      "date": "2025-03-05",
+      "location": "Main Street",
+      "description": "Admire a display of classic cars from different eras.",
+      "image": "https://images.unsplash.com/photo-1662298410057-d89255f03ae3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fENsYXNzaWMlMjBDYXIlMjBTaG93fGVufDB8fDB8fHww"
+    },
+    {
+      "id": 16,
+      "name": "Spring Carnival",
+      "date": "2025-03-20",
+      "location": "Fairgrounds",
+      "description": "Enjoy rides, games, and fair food at the annual spring carnival.",
+      "image": "https://images.unsplash.com/photo-1586836476603-ce713984045e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8U3ByaW5nJTIwQ2Fybml2YWx8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": 17,
+      "name": "Book Club Meetup",
+      "date": "2025-03-28",
+      "location": "City Library",
+      "description": "Discuss the latest book selection with fellow readers.",
+      "image": "https://plus.unsplash.com/premium_photo-1706061121381-d7a7a5a06998?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Qm9vayUyMENsdWIlMjBNZWV0dXB8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": 18,
+      "name": "Art Workshop",
+      "date": "2025-04-03",
+      "location": "The Art Studio",
+      "description": "Join a workshop to learn painting and drawing techniques.",
+      "image": "https://plus.unsplash.com/premium_photo-1705407454980-4b8b64d068b8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YXJ0JTIwd29ya3Nob3B8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": 19,
+      "name": "Outdoor Concert",
+      "date": "2025-04-15",
+      "location": "River Park",
+      "description": "Enjoy live music by the river with local bands.",
+      "image": "https://plus.unsplash.com/premium_photo-1681830630610-9f26c9729b75?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8b3V0ZG9vciUyMGNvbmNlcnR8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": 20,
+      "name": "Earth Day Cleanup",
+      "date": "2025-04-22",
+      "location": "Beachfront",
+      "description": "Help keep the environment clean by participating in a beach cleanup.",
+      "image": "https://images.unsplash.com/photo-1597700272269-1014d93855d5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZWFydGglMjBkYXklMjBjbGVhbnVwfGVufDB8fDB8fHwwg"
+    }
+]
+  
